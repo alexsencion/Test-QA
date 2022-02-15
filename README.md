@@ -8,6 +8,7 @@
 
 # QA CHALLENGUE
 
+Link de la carpeta Google Sheets QA: https://drive.google.com/drive/folders/1nRaTtFAaOpfmGHUPJqCz1VskH1jLJnAr?usp=sharing
 
 #### Programas requeridos para correr la prueba
 
