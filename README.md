@@ -9,16 +9,16 @@
 # QA CHALLENGUE
 
 
-####Programas requeridos para correr la prueba
+#### Programas requeridos para correr la prueba
 
 - C#
 - Visual Studio
 - .Net Core
 - Selenium WebDriver Package
 
-####Importante:
+#### Importante:
 Los archivos de prueba automatizada fueron creados como xUnit Test Project.
 
 Los WebDrivers de los navegadores están en el repositorio, si no lo tienen agregado al 'PATH' deben colocar la ruta donde se encuentren los archivos.
 
-#####Ejemplo:  driver = new ChromeDriver("C:/Users/alex_/Downloads/WebDrivers");
+##### Ejemplo:  driver = new ChromeDriver("C:/Users/alex_/Downloads/WebDrivers");
