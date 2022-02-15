@@ -20,6 +20,11 @@ Link de la carpeta Google Sheets QA: https://drive.google.com/drive/folders/1nRa
 #### Importante:
 Los archivos de prueba automatizada fueron creados como xUnit Test Project.
 
+Se crearon dos proyectos dentro de una solución llamada QA Challenge para manejarlos adecuadamente, los proyectos son:
+
+- TestWeb1
+- TestWeb2
+
 Los WebDrivers de los navegadores están en el repositorio, si no lo tienen agregado al 'PATH' deben colocar la ruta donde se encuentren los archivos.
 
 ##### Ejemplo:  driver = new ChromeDriver("C:/Users/alex_/Downloads/WebDrivers");
